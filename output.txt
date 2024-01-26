@@ -1,9 +1,7 @@
 a. Worked for seven consecutive days
 
-PS C:\Users\lenovo\Desktop\Assignment\Sourcecode> cd ..
-PS C:\Users\lenovo\Desktop\Assignment> cd Sourcecode
-PS C:\Users\lenovo\Desktop\Assignment\Sourcecode> g++ .\part-a.cpp
-PS C:\Users\lenovo\Desktop\Assignment\Sourcecode> .\a.exe
+PS C:\Users\lenovo\Desktop\Assignment> g++ .\part-a.cpp
+PS C:\Users\lenovo\Desktop\Assignment> .\a.exe
 Name of employee "REsaXiaWE and position of employee WFS000065
 Name of employee "REsaXiaWE and position of employee WFS000065
 Name of employee "Sparks and position of employee WFS000101
@@ -78,8 +76,8 @@ Name of employee "WgAyeW and position of employee WFS000589
 
 b. who have less than 10 hours of time between shifts but greater than 1 hour
 
-PS C:\Users\lenovo\Desktop\Assignment\Sourcecode> g++ .\part-b.cpp
-PS C:\Users\lenovo\Desktop\Assignment\Sourcecode> .\a.exe
+PS C:\Users\lenovo\Desktop\Assignment> g++ .\part-b.cpp
+PS C:\Users\lenovo\Desktop\Assignment> .\a.exe
 Name of employee "AGeX and position of employee WFS000588
 Name of employee "AXcEcer and position of employee WFS000541
 Name of employee "AXvarez and position of employee WFS000457
@@ -179,6 +177,6 @@ Name of employee "ZaCEra and position of employee WFS000499
 
 c. Who has worked for more than 14 hours in a single shift
 
-PS C:\Users\lenovo\Desktop\Assignment\Sourcecode> g++ .\part-c.cpp
-PS C:\Users\lenovo\Desktop\Assignment\Sourcecode> .\a.exe
+PS C:\Users\lenovo\Desktop\Assignment> g++ .\part-c.cpp
+PS C:\Users\lenovo\Desktop\Assignment> .\a.exe
 Name of employee "DeXgadiXXE REdarMe and position of employee WFS000523
