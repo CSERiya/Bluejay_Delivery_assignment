@@ -1,0 +1,182 @@
+a. Worked for seven consecutive days
+
+PS C:\Users\lenovo\Desktop\Assignment> g++ .\work7days.cpp
+PS C:\Users\lenovo\Desktop\Assignment> .\a.exe
+Name of employee "REsaXiaWE and position of employee WFS000065
+Name of employee "REsaXiaWE and position of employee WFS000065
+Name of employee "Sparks and position of employee WFS000101
+Name of employee "GaXCes and position of employee WFS000127
+Name of employee "CaMaXaWE and position of employee WFS000153
+Name of employee "CaMaXaWE and position of employee WFS000153
+Name of employee "Arias and position of employee WFS000170
+Name of employee "GarWes and position of employee WFS000181
+Name of employee "HerCEsiXXE and position of employee WFS000185
+Name of employee "HerCEsiXXE and position of employee WFS000185
+Name of employee "Xee and position of employee WFS000200
+Name of employee "Xee and position of employee WFS000200
+Name of employee "GaWks and position of employee WFS000226
+Name of employee "GaWks and position of employee WFS000226
+Name of employee "SiWgh and position of employee WFS000246
+Name of employee "ArEsMigAi and position of employee WFS000306
+Name of employee "De Xa Cerda and position of employee WFS000318
+Name of employee "MraW and position of employee WFS000345
+Name of employee "MraW and position of employee WFS000345
+Name of employee "MAcker and position of employee WFS000360
+Name of employee "MAcker and position of employee WFS000360
+Name of employee "CaMXEck and position of employee WFS000362
+Name of employee "CaMXEck and position of employee WFS000362
+Name of employee "MaXeGi and position of employee WFS000364
+Name of employee "PayaW and position of employee WFS000368
+Name of employee "ErMiz and position of employee WFS000372
+Name of employee "ErEpeza and position of employee WFS000382
+Name of employee "REdrigAez and position of employee WFS000412
+Name of employee "EasMCaW and position of employee WFS000414
+Name of employee "SiWgh and position of employee WFS000424
+Name of employee "SiWgh and position of employee WFS000424
+Name of employee "SiWgXeMEW and position of employee WFS000426
+Name of employee "SiWgXeMEW and position of employee WFS000426
+Name of employee "CEreira Jr and position of employee WFS000456
+Name of employee "AXvarez and position of employee WFS000457
+Name of employee "AXvarez and position of employee WFS000457
+Name of employee "CaXdEWadE and position of employee WFS000463
+Name of employee "GAeWdia and position of employee WFS000473
+Name of employee "GAeWdia and position of employee WFS000473
+Name of employee "CErMes and position of employee WFS000495
+Name of employee "CercadE and position of employee WFS000496
+Name of employee "CercadE and position of employee WFS000496
+Name of employee "ZaCEra and position of employee WFS000499
+Name of employee "ZaCEra and position of employee WFS000499
+Name of employee "Caxies and position of employee WFS000500
+Name of employee "CcRAWWeX and position of employee WFS000501
+Name of employee "CcRAWWeX and position of employee WFS000501
+Name of employee "CEMMa and position of employee WFS000503
+Name of employee "EXivares and position of employee WFS000508
+Name of employee "ChaCErE and position of employee WFS000509
+Name of employee "WiXXiaCs and position of employee WFS000511
+Name of employee "GrACfieXd and position of employee WFS000515
+Name of employee "Perez and position of employee WFS000517
+Name of employee "DiXXard and position of employee WFS000519
+Name of employee "DiXXard and position of employee WFS000519
+Name of employee "XEpez WAWez and position of employee WFS000522
+Name of employee "XEpez WAWez and position of employee WFS000522
+Name of employee "DeXgadiXXE REdarMe and position of employee WFS000523
+Name of employee "CesiWa CEreWE and position of employee WFS000548
+Name of employee "REdrigAez and position of employee WFS000550
+Name of employee "Diaz GaXvez and position of employee WFS000551
+Name of employee "SMrickXaWd and position of employee WFS000555
+Name of employee "RAvaXcaGa GaWAeXEs and position of employee WFS000556
+Name of employee "CAevas ZavaXa and position of employee WFS000571
+Name of employee "SaWchez and position of employee WFS000577
+Name of employee "HerWaWdez SaWchez and position of employee WFS000581
+Name of employee "ArCeWMa FXEres and position of employee WFS000584
+Name of employee "XariEs and position of employee WFS000587
+Name of employee "XariEs and position of employee WFS000587
+Name of employee "AGeX and position of employee WFS000588
+Name of employee "WgAyeW and position of employee WFS000589
+
+b. who have less than 10 hours of time between shifts but greater than 1 hour
+
+PS C:\Users\lenovo\Desktop\Assignment> g++ .\lessmore.cpp
+PS C:\Users\lenovo\Desktop\Assignment> .\a.exe
+Name of employee "AGeX and position of employee WFS000588
+Name of employee "AXcEcer and position of employee WFS000541
+Name of employee "AXvarez and position of employee WFS000457
+Name of employee "ArCeWMa FXEres and position of employee WFS000584
+Name of employee "ArEsMigAi and position of employee WFS000306
+Name of employee "ArevaXE and position of employee WFS000491
+Name of employee "Arias and position of employee WFS000170
+Name of employee "ArrAMia and position of employee WFS000518
+Name of employee "CAevas ZavaXa and position of employee WFS000571
+Name of employee "CEMMa and position of employee WFS000503
+Name of employee "CErMes and position of employee WFS000495
+Name of employee "CEreira Jr and position of employee WFS000456
+Name of employee "CaMXEck and position of employee WFS000362
+Name of employee "CaMaXaWE and position of employee WFS000153
+Name of employee "CaXdEWadE and position of employee WFS000463
+Name of employee "CarMer and position of employee WFS000576
+Name of employee "CaraGiXXa and position of employee WFS000514
+Name of employee "Caxies and position of employee WFS000500
+Name of employee "CcRAWWeX and position of employee WFS000501
+Name of employee "CeWdEza and position of employee WFS000465
+Name of employee "CeciWa and position of employee WFS000528
+Name of employee "CercadE and position of employee WFS000446
+Name of employee "CercadE and position of employee WFS000496
+Name of employee "CesiWa CEreWE and position of employee WFS000548
+Name of employee "ChaCErE and position of employee WFS000509
+Name of employee "CharXes and position of employee WFS000566
+Name of employee "CiGriaW DeXgadE and position of employee WFS000574
+Name of employee "DECiWgAez AviWa and position of employee WFS000569
+Name of employee "De XEs SaWMEs and position of employee WFS000582
+Name of employee "De Xa Cerda and position of employee WFS000318
+Name of employee "DeXgadiXXE REdarMe and position of employee WFS000523
+Name of employee "DiWh and position of employee WFS000268
+Name of employee "DiXXard and position of employee WFS000519
+Name of employee "Diaz GaXvez and position of employee WFS000551
+Name of employee "EXivares and position of employee WFS000508
+Name of employee "EasMCaW and position of employee WFS000414
+Name of employee "ErEpeza and position of employee WFS000382
+Name of employee "ErEzcE and position of employee WFS000442
+Name of employee "ErMiz and position of employee WFS000372
+Name of employee "EsMrada and position of employee WFS000552
+Name of employee "FaGiaW CiraWda and position of employee WFS000530
+Name of employee "FeXix and position of employee WFS000183
+Name of employee "GAMierrez and position of employee WFS000579
+Name of employee "GAeWdia and position of employee WFS000473
+Name of employee "GaWks and position of employee WFS000226
+Name of employee "GaXCes and position of employee WFS000127
+Name of employee "GarWes and position of employee WFS000181
+Name of employee "GrACfieXd and position of employee WFS000515
+Name of employee "HAWMer and position of employee WFS000538
+Name of employee "HEGGie ErMega and position of employee WFS000549
+Name of employee "HaCiXMEW and position of employee WFS000536
+Name of employee "HerCEsiXXE and position of employee WFS000185
+Name of employee "HerWaWdez SaWchez and position of employee WFS000581
+Name of employee "IWGEAa and position of employee WFS000546
+Name of employee "JerEWiCE CEraXes and position of employee WFS000557
+Name of employee "MAake and position of employee WFS000228
+Name of employee "MAcker and position of employee WFS000360
+Name of employee "MaXeGi and position of employee WFS000364
+Name of employee "Merrazas and position of employee WFS000180
+Name of employee "MraW and position of employee WFS000345
+Name of employee "PaAXE and position of employee WFS000460
+Name of employee "PaXaciE and position of employee WFS000434
+Name of employee "PayaW and position of employee WFS000368
+Name of employee "Perez and position of employee WFS000517
+Name of employee "PerkiWs and position of employee WFS000469
+Name of employee "RAvaXcaGa GaWAeXEs and position of employee WFS000556
+Name of employee "RECerE and position of employee WFS000420
+Name of employee "REdrigAez and position of employee WFS000336
+Name of employee "REdrigAez and position of employee WFS000412
+Name of employee "REdrigAez and position of employee WFS000505
+Name of employee "REdrigAez and position of employee WFS000550
+Name of employee "REsaXiaWE and position of employee WFS000065
+Name of employee "RaCEs HerWaWdez and position of employee WFS000585
+Name of employee "Rivera AXcaWMar and position of employee WFS000507
+Name of employee "SMrickXaWd and position of employee WFS000555
+Name of employee "SaWchez and position of employee WFS000577
+Name of employee "SaWchez PaCpXEWa and position of employee WFS000521
+Name of employee "SavaWg and position of employee WFS000393
+Name of employee "SiWgXeMEW and position of employee WFS000426
+Name of employee "SiWgh and position of employee WFS000246
+Name of employee "SiWgh and position of employee WFS000418
+Name of employee "SiWgh and position of employee WFS000424
+Name of employee "Sparks and position of employee WFS000101
+Name of employee "VaXderraCa CasMiXXE and position of employee WFS000573
+Name of employee "VasqAez and position of employee WFS000391
+Name of employee "VasqAez and position of employee WFS000578
+Name of employee "ViXXa and position of employee WFS000583
+Name of employee "WgAyeW and position of employee WFS000589
+Name of employee "WiXXiaCs and position of employee WFS000511
+Name of employee "XEpez WAWez and position of employee WFS000522
+Name of employee "XariEs and position of employee WFS000587
+Name of employee "XariEs XaWdaverde and position of employee WFS000572
+Name of employee "Xee and position of employee WFS000200
+Name of employee "XiWW and position of employee WFS000462
+Name of employee "ZaCEra and position of employee WFS000477
+Name of employee "ZaCEra and position of employee WFS000499
+
+c. Who has worked for more than 14 hours in a single shift
+
+PS C:\Users\lenovo\Desktop\Assignment> g++ .\morethan14.cpp
+PS C:\Users\lenovo\Desktop\Assignment> .\a.exe
+Name of employee "DeXgadiXXE REdarMe and position of employee WFS000523
